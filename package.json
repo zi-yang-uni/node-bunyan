@@ -1,5 +1,5 @@
 {
-  "name": "bunyan",
+  "name": "ziyi-bunyan",
   "version": "2.0.5",
   "description": "a JSON logging library for node.js services",
   "author": "Trent Mick <trentm@gmail.com> (http://trentm.com)",
